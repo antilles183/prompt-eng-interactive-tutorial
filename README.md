@@ -27,11 +27,11 @@ When you are ready to begin, go to `01_Basic Prompt Structure` to proceed.
 Each chapter consists of a lesson and a set of exercises.
 
 ### Beginner
-- **Chapter 1:** Basic Prompt Structure
+- ~~**Chapter 1:** Basic Prompt Structure~~
 
-- **Chapter 2:** Being Clear and Direct  
+- ~~**Chapter 2:** Being Clear and Direct~~
 
-- **Chapter 3:** Assigning Roles
+- ~~**Chapter 3:** Assigning Roles~~
 
 ### Intermediate 
 - **Chapter 4:** Separating Data from Instructions

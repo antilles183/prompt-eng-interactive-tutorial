@@ -34,7 +34,7 @@ Each chapter consists of a lesson and a set of exercises.
 - ~~**Chapter 3:** Assigning Roles~~
 
 ### Intermediate 
-- **Chapter 4:** Separating Data from Instructions
+- ~~**Chapter 4:** Separating Data from Instructions~~
 
 - **Chapter 5:** Formatting Output & Speaking for Claude
 

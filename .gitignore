@@ -1,2 +1,4 @@
 .DS_Store
-00_Tutorial_How-To.ipynb
+.env
+.ipynb_checkpoints/
+__pycache__/

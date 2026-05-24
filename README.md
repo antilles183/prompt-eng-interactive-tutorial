@@ -36,7 +36,7 @@ Each chapter consists of a lesson and a set of exercises.
 ### Intermediate 
 - ~~**Chapter 4:** Separating Data from Instructions~~
 
-- **Chapter 5:** Formatting Output & Speaking for Claude
+- ~~**Chapter 5:** Formatting Output & Speaking for Claude~~
 
 - **Chapter 6:** Precognition (Thinking Step by Step)
 

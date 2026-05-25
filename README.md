@@ -38,14 +38,14 @@ Each chapter consists of a lesson and a set of exercises.
 
 - ~~**Chapter 5:** Formatting Output & Speaking for Claude~~
 
-- **Chapter 6:** Precognition (Thinking Step by Step)
+- ~~**Chapter 6:** Precognition (Thinking Step by Step)~~
 
-- **Chapter 7:** Using Examples
+- ~~**Chapter 7:** Using Examples~~
 
 ### Advanced
-- **Chapter 8:** Avoiding Hallucinations
+- ~~**Chapter 8:** Avoiding Hallucinations~~
 
-- **Chapter 9:** Building Complex Prompts (Industry Use Cases)
+- ~~**Chapter 9:** Building Complex Prompts (Industry Use Cases)~~
   - Complex Prompts from Scratch - Chatbot
   - Complex Prompts for Legal Services
   - **Exercise:** Complex Prompts for Financial Services
